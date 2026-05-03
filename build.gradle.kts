@@ -35,7 +35,7 @@ taboolib {
     }
     version {
         taboolib = "6.2.4-99fb800"
-        skipKotlinRelocate = true
+        skipKotlinRelocate = false
     }
 }
 
